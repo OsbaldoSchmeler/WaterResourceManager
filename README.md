@@ -115,10 +115,10 @@ The system implements a sophisticated allocation mechanism where:
 🌐 **Web Interface**: [https://water-resource-manager.vercel.app/](https://water-resource-manager.vercel.app/)
 
 ### Video Demonstration
-🎥 **Demo Video**: *[Coming Soon - Comprehensive system walkthrough and use case demonstrations]*
+🎥 **WaterResourceManager.mp4**: *[Comprehensive system walkthrough and use case demonstrations]*
 
 ### On-Chain Transaction Examples
-📋 **Transaction Screenshots**: *[Coming Soon - Real blockchain transaction examples and verification]*
+📋 **WaterResourceManager.png**: *[Real blockchain transaction examples and verification]*
 
 ## 🔧 Technical Specifications
 
